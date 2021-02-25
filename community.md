@@ -2,51 +2,51 @@
 most season 1 episodes are not included
 
 ## ----- 10's below -----
-5.11 g.i. jeff
-3.8 documentary filmmaking: redux
-3.17 basic lupine urology
-3.21 the first chang dynasty
-5.3 basic intergluteal numismatics
-3.5 horror fiction in seven spooky steps
-3.4 remedial chaos theory
-2.9 conspiracy theories and interior design
-6.13 emotional consequences of broadcast television
-2.4 basic rocket science
-5.4 cooperative polygraphy
-3.7 studies in modern movement
-3.22 introduction to finality
-2.11 abed's uncontrollable christmas
-2.5 messianic myths and ancient peoples
-5.5 geothermal escapism
-3.20 digital estate planning
-2.23 / 2.24 fistful of paintballs / for a few paintballs more
-3.14 pillows and blankets
-3.19 curriculum unavailable
-2.8 cooperative calligraphy
-3.10 regional holiday music
-2.21 paradigms of human memory
-1.23 modern warfare
-2.7 aerodynamics of gender
-2.6 epidemiology
-1.21 contemporary american poultry
+* 5.11 g.i. jeff
+* 3.8 documentary filmmaking: redux
+* 3.17 basic lupine urology
+* 3.21 the first chang dynasty
+* 5.3 basic intergluteal numismatics
+* 3.5 horror fiction in seven spooky steps
+* 3.4 remedial chaos theory
+* 2.9 conspiracy theories and interior design
+* 6.13 emotional consequences of broadcast television
+* 2.4 basic rocket science
+* 5.4 cooperative polygraphy
+* 3.7 studies in modern movement
+* 3.22 introduction to finality
+* 2.11 abed's uncontrollable christmas
+* 2.5 messianic myths and ancient peoples
+* 5.5 geothermal escapism
+* 3.20 digital estate planning
+* 2.23 / 2.24 fistful of paintballs / for a few paintballs more
+* 3.14 pillows and blankets
+* 3.19 curriculum unavailable
+* 2.8 cooperative calligraphy
+* 3.10 regional holiday music
+* 2.21 paradigms of human memory
+* 1.23 modern warfare
+* 2.7 aerodynamics of gender
+* 2.6 epidemiology
+* 1.21 contemporary american poultry
 ## ----- 9's below -----
-5.8 app development and condiments
-3.9 foosball and nocturnal vigilantism
-3.12 contemporary impressionists
-2.14 advanced dungeons and dragons
-3.13 digital exploration of interior design
-6.11 modern espionage
-2.10 mixology certification
-2.19 critical film studies
-6.4 queer studies & advanced waxing
-3.16 virtual systems analysis
-2.17 intro to political science
-3.3 competitive ecology
-5.10 advanced advanced dungeons and dragons
-2.1 anthropology 101
-4.13 advanced introduction to finality
-4.12 heroic origins
-4.8 herstory of dance
+* 5.8 app development and condiments
+* 3.9 foosball and nocturnal vigilantism
+* 3.12 contemporary impressionists
+* 2.14 advanced dungeons and dragons
+* 3.13 digital exploration of interior design
+* 6.11 modern espionage
+* 2.10 mixology certification
+* 2.19 critical film studies
+* 6.4 queer studies & advanced waxing
+* 3.16 virtual systems analysis
+* 2.17 intro to political science
+* 3.3 competitive ecology
+* 5.10 advanced advanced dungeons and dragons
+* 2.1 anthropology 101
+* 4.13 advanced introduction to finality
+* 4.12 heroic origins
+* 4.8 herstory of dance
 ## ----- 8's below -----
 3.1 biology 101
 3.2 geography of global conflict
