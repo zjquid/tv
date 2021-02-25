@@ -1,7 +1,7 @@
-community episodes ranked
+# community episodes ranked
 most season 1 episodes are not included
 
------ 10's below -----
+## ----- 10's below -----
 5.11 g.i. jeff
 3.8 documentary filmmaking: redux
 3.17 basic lupine urology
@@ -29,7 +29,7 @@ most season 1 episodes are not included
 2.7 aerodynamics of gender
 2.6 epidemiology
 1.21 contemporary american poultry
------ 9's below -----
+## ----- 9's below -----
 5.8 app development and condiments
 3.9 foosball and nocturnal vigilantism
 3.12 contemporary impressionists
@@ -47,7 +47,7 @@ most season 1 episodes are not included
 4.13 advanced introduction to finality
 4.12 heroic origins
 4.8 herstory of dance
------ 8's below -----
+## ----- 8's below -----
 3.1 biology 101
 3.2 geography of global conflict
 3.11 urban matrimony and the sandwich arts
@@ -65,7 +65,7 @@ most season 1 episodes are not included
 4.6 advanced documentary filmmaking
 6.8 intro to recycled cinema
 6.5 laws of robotics & party rights
------ 7's below -----
+## ----- 7's below -----
 3.6 advanced gay
 2.20 competitve wine tasting
 2.13 celebrity pharmacology 212
@@ -84,13 +84,13 @@ most season 1 episodes are not included
 5.7 bondage and beta male sexuality
 4.3 conventions of space and time
 4.4 alternative history of the german invasion
------ 6's below -----
+## ----- 6's below -----
 4.1 history 101
 4.7 economics of marine biology
 4.10 intro to knots
 4.9 intro to felt supremacy
------ 5's below -----
------ 4's below -----
+## ----- 5's below -----
+## ----- 4's below -----
 1.13 investigative journalism
------ 3's below -----
+## ----- 3's below -----
 6.2 lawnmower maintenance and postnatal care
