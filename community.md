@@ -48,49 +48,49 @@ most season 1 episodes are not included
 * 4.12 heroic origins
 * 4.8 herstory of dance
 ## ----- 8's below -----
-3.1 biology 101
-3.2 geography of global conflict
-3.11 urban matrimony and the sandwich arts
-4.11 basic human anatomy
-2.2 accounting for lawyers
-2.15 early 21st century romanticism
-6.12 wedding videography
-3.15 origins of vampire mythology
-4.2 paranormal parentage
-5.2 introduction to teaching
-3.18 course listing unavaliable
-5.6 analysis of cork-based networking
-5.1 repilot
-2.3 the psychology of letting go
-4.6 advanced documentary filmmaking
-6.8 intro to recycled cinema
-6.5 laws of robotics & party rights
+* 3.1 biology 101
+* 3.2 geography of global conflict
+* 3.11 urban matrimony and the sandwich arts
+* 4.11 basic human anatomy
+* 2.2 accounting for lawyers
+* 2.15 early 21st century romanticism
+* 6.12 wedding videography
+* 3.15 origins of vampire mythology
+* 4.2 paranormal parentage
+* 5.2 introduction to teaching
+* 3.18 course listing unavaliable
+* 5.6 analysis of cork-based networking
+* 5.1 repilot
+* 2.3 the psychology of letting go
+* 4.6 advanced documentary filmmaking
+* 6.8 intro to recycled cinema
+* 6.5 laws of robotics & party rights
 ## ----- 7's below -----
-3.6 advanced gay
-2.20 competitve wine tasting
-2.13 celebrity pharmacology 212
-6.7 advanced safety features
-6.9 grifting 101
-6.3 basic crisis room decorum
-2.18 custody law and eastern european diplomacy
-2.12 asian population studies
-2.22 applied anthropology and culinary arts
-5.9 vcr maintenance and educational publishing
-2.16 intermediate documentary filmmaking
-6.10 basic rv repair and palmistry
-6.6 basic email security
-6.1 ladders
-4.5 cooperative escapism in familial relations
-5.7 bondage and beta male sexuality
-4.3 conventions of space and time
-4.4 alternative history of the german invasion
+* 3.6 advanced gay
+* 2.20 competitve wine tasting
+* 2.13 celebrity pharmacology 212
+* 6.7 advanced safety features
+* 6.9 grifting 101
+* 6.3 basic crisis room decorum
+* 2.18 custody law and eastern european diplomacy
+* 2.12 asian population studies
+* 2.22 applied anthropology and culinary arts
+* 5.9 vcr maintenance and educational publishing
+* 2.16 intermediate documentary filmmaking
+* 6.10 basic rv repair and palmistry
+* 6.6 basic email security
+* 6.1 ladders
+* 4.5 cooperative escapism in familial relations
+* 5.7 bondage and beta male sexuality
+* 4.3 conventions of space and time
+* 4.4 alternative history of the german invasion
 ## ----- 6's below -----
-4.1 history 101
-4.7 economics of marine biology
-4.10 intro to knots
-4.9 intro to felt supremacy
+* 4.1 history 101
+* 4.7 economics of marine biology
+* 4.10 intro to knots
+* 4.9 intro to felt supremacy
 ## ----- 5's below -----
 ## ----- 4's below -----
-1.13 investigative journalism
+* 1.13 investigative journalism
 ## ----- 3's below -----
-6.2 lawnmower maintenance and postnatal care
+* 6.2 lawnmower maintenance and postnatal care
